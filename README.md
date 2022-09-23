@@ -43,4 +43,6 @@
 ## Experiment 11
 [EXPERIMENT 11 QUIRIES](https://github.com/UmeshAlliboyina/CSA0519-DBMS/blob/main/EXPERIMENT%2011)
 ![image](https://user-images.githubusercontent.com/114208460/192013974-50390214-2b72-48dc-8927-45fa7845c05f.png)
+![image](https://user-images.githubusercontent.com/114208460/192014214-cdd69adf-7d45-485c-8bf1-2770a8e05624.png)
+
 
