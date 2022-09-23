@@ -58,6 +58,9 @@
 ## EXPERIMENT 15
 [EXPERIMENT 15 QUIRIES](https://github.com/UmeshAlliboyina/CSA0519-DBMS/blob/main/EXPERIMENT%2015)
 ![image](https://user-images.githubusercontent.com/114208460/192023756-5893591c-b875-42e2-a5fa-b7e6897efa2c.png)
+## EXPERIMENT 16
+[EXPERIMENT 16 QUIRIES](https://github.com/UmeshAlliboyina/CSA0519-DBMS/blob/main/EXPERIMENT%2016)
+![image](https://user-images.githubusercontent.com/114208460/192024533-c7a78df0-c070-4117-acce-0d03cc865831.png)
 
 
 
