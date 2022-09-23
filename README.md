@@ -37,4 +37,8 @@
 [![image](https://user-images.githubusercontent.com/113226389/191555805-136b9f79-5af5-4657-b4c5-b01d12bd48d3.png)
 ![image](https://user-images.githubusercontent.com/113226389/191556003-fb322e23-e754-47fa-b89d-70df53b90752.png)
 ![image](https://user-images.githubusercontent.com/113226389/191556129-718d757f-4084-4892-a536-9d6180926549.
+## EXPERIMENT 10
+[EXPERIMENT 10 QUIRIES](https://github.com/UmeshAlliboyina/CSA0519-DBMS/blob/main/EXPERIMENT%2010)
+![image](https://user-images.githubusercontent.com/113226389/191558100-cc3f0fa8-22c8-4c8f-853c-68f351f52759.png)
+## Experiment 11
 
