@@ -40,14 +40,19 @@
 ## EXPERIMENT 10
 [EXPERIMENT 10 QUIRIES](https://github.com/UmeshAlliboyina/CSA0519-DBMS/blob/main/EXPERIMENT%2010)
 ![image](https://user-images.githubusercontent.com/113226389/191558100-cc3f0fa8-22c8-4c8f-853c-68f351f52759.png)
-## Experiment 11
+## EXPERIMENT 11
 [EXPERIMENT 11 QUIRIES](https://github.com/UmeshAlliboyina/CSA0519-DBMS/blob/main/EXPERIMENT%2011)
 ![image](https://user-images.githubusercontent.com/114208460/192013974-50390214-2b72-48dc-8927-45fa7845c05f.png)
 ![image](https://user-images.githubusercontent.com/114208460/192014214-cdd69adf-7d45-485c-8bf1-2770a8e05624.png)
-## Experiment 12
+## EXPERIMENT 12
 [EXPERIMENT 12 QUIRIES](https://github.com/UmeshAlliboyina/CSA0519-DBMS/blob/main/EXPERIMENT%2012)
 ![image](https://user-images.githubusercontent.com/114208460/192015090-d2d826f6-6ae8-4c38-9ae0-1c579b5fe7ad.png)
 ![image](https://user-images.githubusercontent.com/114208460/192015215-d679382d-6a56-4d7c-a706-e769ff59f1c0.png)
+## EXPERIMENT 13
+[EXPERIMENT 13 QUIRIES](https://github.com/UmeshAlliboyina/CSA0519-DBMS/blob/main/EXPERIMENT%2013)
+![image](https://user-images.githubusercontent.com/114208460/192017133-8c1a3d7f-7dbf-49d1-93b2-4fdb9689640d.png)
+![image](https://user-images.githubusercontent.com/114208460/192017534-9f88df91-0650-49f6-a1f5-ffe9a6702528.png)
+
 
 
 
