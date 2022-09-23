@@ -70,8 +70,7 @@
 ## EXPERIMENT 21
 [EXPERIMENT 21 QUIRIES](https://github.com/UmeshAlliboyina/CSA0519-DBMS/blob/main/EXPERIMENT%2021)
 ![image](https://user-images.githubusercontent.com/114208460/192025564-8ca12fdb-6f61-4168-a5b1-0401c53c964a.png)
-
-
-
-
+## EXPERIMENT 22
+[EXPERIMENT 22 QUIRIES](https://github.com/UmeshAlliboyina/CSA0519-DBMS/blob/main/EXPERIMENT%2022)
+![image](https://user-images.githubusercontent.com/114208460/192025905-cccc7872-0138-4d97-a564-3f85d8ffbdf8.png)
 
