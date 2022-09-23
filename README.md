@@ -27,5 +27,8 @@
 ## EXPERIMENT 6
 [EXPERIMENT 6 QUIRIES](https://github.com/UmeshAlliboyina/CSA0519-DBMS/blob/main/EXPERIMENT%206)
 ## EXPERIMENT 7
-[EXPERIMENT 7 QUIRIES](
+[EXPERIMENT 7 QUIRIES](https://github.com/UmeshAlliboyina/CSA0519-DBMS/blob/main/EXPERIMENT%207)
+![image](https://user-images.githubusercontent.com/113226389/191317265-ef314b6f-6168-4aed-bec4-5ffd8fd08966.png)
+## EXPERIMENT 8
+[EXPERIMENT 8 QUIRIES](
 
